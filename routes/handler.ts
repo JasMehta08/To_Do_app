@@ -1,3 +1,7 @@
+// these are the old routes which i used while i was running the app in the first version
+// this is no longer being used in the app
+// i am keeping it here for reference
+
 import express from 'express'
 import {ITask,Task} from '../models/Task'
 import {TaskStorage} from '../storage/TaskStorage'

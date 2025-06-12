@@ -1,3 +1,6 @@
+// this is no longer being used this was my first attempt at making the app using only typesript
+
+
 export interface ITask {
     id: string | number;
     name: string;

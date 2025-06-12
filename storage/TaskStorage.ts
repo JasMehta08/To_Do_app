@@ -1,3 +1,7 @@
+// this is runtime storage which i used while i was running the app in the first version
+// this is no longer being used in the app
+// i am keeping it here for reference
+
 import  { ITask } from '../models/Task';
 
 export class TaskStorage {
